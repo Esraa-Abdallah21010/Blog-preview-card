@@ -18,7 +18,7 @@ body{
     background-color: var(--White);
     border: 1px solid var(--Gray-dark);
     border-radius: 20px;
-    width: 330px;
+    width: 320px;
     box-shadow:  7px 7px var(--Gray-dark);
     padding:22px;
 }
@@ -31,18 +31,20 @@ body{
     color: var(--Gray-dark);
     border-radius: 5px;
     width: 80px;
-    padding: 7px;
+    padding: 5px 1px;
     text-align: center;
     font-weight: 800;
+    font-size: 14px;
 }
 .publishDate{
     color: var(--Gray-dark);
     font-weight: 500;
+    font-size: 14px;
 }
 .link {
     text-decoration: none;
     color: var(--Gray-dark);
-    font-size: larger;
+    font-size: 24px;
     font-weight: 800;
 }
 .link:hover{
@@ -64,12 +66,12 @@ body{
     width: 30px;
     height: 30px;
 }
-.attribution { 
-    font-size: 11px; 
+.attribution {
+    font-size: 11px;
     text-align: center;
-    margin-top:10px;
+    margin-top: 10px;
 }
 .attribution a { 
-    color: hsl(228, 45%, 44%); 
+    color: hsl(228, 45%, 44%);
 }
 
