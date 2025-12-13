@@ -6,10 +6,13 @@
     --Gray-dark: hsl(0, 0%, 7%);
 }
 body{
+    margin:0;
+    padding: 0;
     background: var(--Yellow);
-    font-family: "Figtree", sans-serif;
-    display: flex;
+    font: 14px "Figtree", sans-serif;
+    line-height: 150%;
     height: 100vh;
+    display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -17,41 +20,54 @@ body{
 .container{
     background-color: var(--White);
     border: 1px solid var(--Gray-dark);
+    width: 334px;
     border-radius: 20px;
-    width: 320px;
-    box-shadow:  7px 7px var(--Gray-dark);
-    padding:22px;
+    box-shadow: 8px 8px black;
+    padding: 24px;
+    display: grid;
+    row-gap:24px;
+
 }
 .illustration{
-    width: 100%;
+    display: block;
+    height: 200px;
     border-radius: 10px;
+}
+.textContent{
+    display: grid;
+    row-gap: 12px;
 }
 .learn{
     background-color: var(--Yellow);
     color: var(--Gray-dark);
-    border-radius: 5px;
-    width: 80px;
-    padding: 5px 1px;
-    text-align: center;
+    border-radius: 4px;
+    padding: 4px 12px;
+    margin:0;
     font-weight: 800;
-    font-size: 14px;
+    letter-spacing: 0px;
+    width: fit-content;
 }
 .publishDate{
+    margin: 0;
     color: var(--Gray-dark);
     font-weight: 500;
-    font-size: 14px;
 }
-.link {
+.title{
+    margin: 0;
     text-decoration: none;
     color: var(--Gray-dark);
     font-size: 24px;
     font-weight: 800;
+    cursor: pointer;
 }
-.link:hover{
+.title:hover{
     color: var(--Yellow);
 }
 .description{
+    margin: 0;
     color: var(--Gray-light);
+    font-size: 16px;
+
 }
 .author{
     display: flex;
@@ -60,11 +76,13 @@ body{
     gap:10px;
     color:var(--Gray-dark);
     font-weight: 800;
-    
 }
 .author img{
-    width: 30px;
-    height: 30px;
+    width: 32px;
+    height: 32px;
+}
+.author p{
+    margin:0;
 }
 .attribution {
     font-size: 11px;
