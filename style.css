@@ -16,9 +16,9 @@ body{
 }
 .container{
     background-color: var(--White);
-    border: 2px solid var(--Gray-dark);
+    border: 1px solid var(--Gray-dark);
     border-radius: 20px;
-    width: 320px;
+    width: 330px;
     box-shadow:  7px 7px var(--Gray-dark);
     padding:22px;
 }
@@ -66,7 +66,8 @@ body{
 }
 .attribution { 
     font-size: 11px; 
-    text-align: center; 
+    text-align: center;
+    margin-top:10px;
 }
 .attribution a { 
     color: hsl(228, 45%, 44%); 
