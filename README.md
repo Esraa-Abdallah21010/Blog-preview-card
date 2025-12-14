@@ -6,10 +6,10 @@
 
 ## 📸 Screenshot
 
-###Desktop
+### Desktop
 ![Blog Preview Card](./assets/images/screenshot-desktop.png)
 
-###Mobile
+### Mobile
 ![Blog Preview Card](./assets/images/screenshot-mobile.png)
 ---
 
