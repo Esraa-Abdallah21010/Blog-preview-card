@@ -1,51 +1,77 @@
-# Blog Preview Card
+# 📝 Blog Preview Card
 
-This is a simple **Blog Preview Card** project built using **HTML and CSS**.
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+![Challenge](https://img.shields.io/badge/Frontend%20Mentor-Challenge-blue?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen?style=flat-square)
 
-This project is a challenge from  
-👉 **Frontend Mentor** (https://www.frontendmentor.io)
+## 📸 Screenshot
+
+###Desktop
+![Blog Preview Card](./assets/images/screenshot-desktop.png)
+
+###Mobile
+![Blog Preview Card](./assets/images/screenshot-mobile.png)
+---
+
+This is a simple **Blog Preview Card** project built using **HTML & CSS**.  
+This project is a challenge from **Frontend Mentor**: [Frontend Mentor](https://www.frontendmentor.io)
 
 ---
 
 ## 🔗 Live Demo
 
-- Live Site: https://esraa-abdallah21010.github.io/Blog-preview-card/
-- GitHub Repo: https://github.com/Esraa-Abdallah21010/Blog-preview-card
+- Live Site: [Click Here](https://esraa-abdallah21010.github.io/Blog-preview-card/)
+- GitHub Repo: [Click Here](https://github.com/Esraa-Abdallah21010/Blog-preview-card)
 
 ---
 
 ## 🛠️ Built With
 
-- HTML5
-- CSS3
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
-## 🎯 Purpose of the Project
+## ✨ Features
 
-The goal of this project was to:
-- Practice HTML and CSS
-- Improve layout and styling skills
-- Build a responsive card component
+- 📱 Fully responsive design
+- 🎨 Clean and modern UI
+- 🧱 Semantic HTML structure
+- 🎯 Pixel-perfect design based on the challenge
 
 ---
 
 ## 📚 What I Learned
 
-- How to structure HTML properly
-- How to style components using CSS
-- How to make a simple responsive layout
+- Structuring HTML properly
+- Styling components using CSS
+- Creating a responsive layout
+- Working with fonts, colors, and spacing
+
+---
+
+## 🚧 Future Improvements
+
+- ✨ Add hover/focus animations
+- ♿ Improve accessibility (ARIA & contrast)
+- ⚛️ Rebuild using a JavaScript framework
 
 ---
 
 ## 👩‍💻 Author
 
-- Name: Esraa Abdallah
-- GitHub: https://github.com/Esraa-Abdallah21010
+**Esraa Abdallah**  
+- GitHub: [@Esraa-Abdallah21010](https://github.com/Esraa-Abdallah21010)  
+- Email: esraaabdallah21010@gmail.com
 
 ---
 
-## 🙏 Acknowledgment
+## ⭐ Acknowledgments
 
-This project is based on a challenge from  
-**Frontend Mentor**
+This project is based on a challenge from [Frontend Mentor](https://www.frontendmentor.io)
+
+---
+
+⭐ If you like this project, feel free to star the repository!
