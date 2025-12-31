@@ -5,13 +5,13 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge)
 
-A clean and responsive **Blog Preview Card** built with **HTML5** and **CSS3** as part of a Frontend Mentor challenge. :contentReference[oaicite:1]{index=1}
+A clean and responsive **Blog Preview Card** built with **HTML5** and **CSS3** as part of a Frontend Mentor challenge.
 
 ---
 
 ## 💡 Project Idea
 This project is a **Blog Preview Card component** that displays an eye-catching card with image, title, description, and author info.  
-The design is fully responsive and looks great on desktop and mobile screens. :contentReference[oaicite:2]{index=2}
+The design is fully responsive and looks great on desktop and mobile screens.
 
 ---
 
@@ -19,7 +19,7 @@ The design is fully responsive and looks great on desktop and mobile screens. :c
 - HTML5  
 - CSS3  
 - Flexbox  
-- Responsive Design (Mobile / Tablet / Desktop) :contentReference[oaicite:3]{index=3}
+- Responsive Design (Mobile /Desktop)
 
 ---
 
