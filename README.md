@@ -1,77 +1,41 @@
-# 📝 Blog Preview Card
+# Blog Preview Card 🚀
 
-![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
-![Challenge](https://img.shields.io/badge/Frontend%20Mentor-Challenge-blue?style=flat-square)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen?style=flat-square)
+![Frontend Mentor](https://img.shields.io/badge/Frontend-Mentor-0078D7?style=for-the-badge&logo=frontendmentor)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen?style=for-the-badge)
 
-## 📸 Screenshot
-
-### Desktop
-![Blog Preview Card](./assets/images/screenshot-desktop.png)
-
-### Mobile
-![Blog Preview Card](./assets/images/screenshot-mobile.png)
----
-
-This is a simple **Blog Preview Card** project built using **HTML & CSS**.  
-This project is a challenge from **Frontend Mentor**: [Frontend Mentor](https://www.frontendmentor.io)
+A clean and responsive **Blog Preview Card** built with **HTML5** and **CSS3** as part of a Frontend Mentor challenge. :contentReference[oaicite:1]{index=1}
 
 ---
 
-## 🔗 Live Demo
-
-- Live Site: [Click Here](https://esraa-abdallah21010.github.io/Blog-preview-card/)
-- GitHub Repo: [Click Here](https://github.com/Esraa-Abdallah21010/Blog-preview-card)
-
----
-
-## 🛠️ Built With
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+## 💡 Project Idea
+This project is a **Blog Preview Card component** that displays an eye-catching card with image, title, description, and author info.  
+The design is fully responsive and looks great on desktop and mobile screens. :contentReference[oaicite:2]{index=2}
 
 ---
 
-## ✨ Features
-
-- 📱 Fully responsive design
-- 🎨 Clean and modern UI
-- 🧱 Semantic HTML structure
-- 🎯 Pixel-perfect design based on the challenge
-
----
-
-## 📚 What I Learned
-
-- Structuring HTML properly
-- Styling components using CSS
-- Creating a responsive layout
-- Working with fonts, colors, and spacing
+## 🛠️ Technologies Used
+- HTML5  
+- CSS3  
+- Flexbox  
+- Responsive Design (Mobile / Tablet / Desktop) :contentReference[oaicite:3]{index=3}
 
 ---
 
-## 🚧 Future Improvements
+## 📸 Screenshots
 
-- ✨ Add hover/focus animations
-- ♿ Improve accessibility (ARIA & contrast)
-- ⚛️ Rebuild using a JavaScript framework
+**Desktop View:**  
+![Desktop](Screen%20Shot%20Desktop.png)
 
----
-
-## 👩‍💻 Author
-
-**Esraa Abdallah**  
-- GitHub: [@Esraa-Abdallah21010](https://github.com/Esraa-Abdallah21010)  
-- Email: esraaabdallah21010@gmail.com
+**Mobile View:**  
+![Mobile](Screen%20Shot%20Mobile.png)
 
 ---
 
-## ⭐ Acknowledgments
+## ▶️ How to Run Locally
+To run this project on your machine:
 
-This project is based on a challenge from [Frontend Mentor](https://www.frontendmentor.io)
-
----
-
-⭐ If you like this project, feel free to star the repository!
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Esraa-Abdallah21010/Blog-preview-card.git
