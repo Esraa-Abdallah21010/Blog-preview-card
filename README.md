@@ -39,3 +39,24 @@ To run this project on your machine:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Esraa-Abdallah21010/Blog-preview-card.git
+
+---
+## 🎯 What I Learned
+- Structuring semantic HTML
+- Styling components with CSS
+- Building responsive layouts
+- Working with spacing, fonts, and color harmony
+- Using GitHub for project version control
+
+---
+
+## 📚 Challenge Source
+Solution to the **Blog Preview Card** challenge from  
+[Frontend Mentor](https://www.frontendmentor.io/)
+
+---
+
+## 👩‍💻 Author
+**Esraa Abdallah**  
+[GitHub](https://github.com/Esraa-Abdallah21010) | [LinkedIn](https://www.linkedin.com/in/esraa-abdallah-029945381)
+
