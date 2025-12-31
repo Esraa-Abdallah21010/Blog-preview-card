@@ -5,6 +5,11 @@
     --Gray-light: hsl(0, 0%, 42%);
     --Gray-dark: hsl(0, 0%, 7%);
 }
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body{
     margin:0;
     padding: 0;
@@ -24,13 +29,14 @@ body{
     border-radius: 20px;
     box-shadow: 8px 8px black;
     padding: 24px;
-    display: grid;
+    display: flex;
+    flex-direction: column;
     row-gap:24px;
 
 }
 .illustration{
     display: block;
-    height: 200px;
+    width: 100%;
     border-radius: 10px;
 }
 .textContent{
@@ -44,6 +50,7 @@ body{
     padding: 4px 12px;
     margin:0;
     font-weight: 800;
+    font-size: 0.8rem;
     letter-spacing: 0px;
     width: fit-content;
 }
@@ -51,12 +58,13 @@ body{
     margin: 0;
     color: var(--Gray-dark);
     font-weight: 500;
+    font-size: 0.8rem;
 }
 .title{
     margin: 0;
     text-decoration: none;
     color: var(--Gray-dark);
-    font-size: 24px;
+    font-size: 1.35rem;
     font-weight: 800;
     cursor: pointer;
 }
@@ -66,7 +74,7 @@ body{
 .description{
     margin: 0;
     color: var(--Gray-light);
-    font-size: 16px;
+    font-size: 0.9rem;
 
 }
 .author{
@@ -76,10 +84,11 @@ body{
     gap:10px;
     color:var(--Gray-dark);
     font-weight: 800;
+    font-size: 0.75rem;
 }
 .author img{
-    width: 32px;
-    height: 32px;
+    width: 30px;
+    height: 30px;
 }
 .author p{
     margin:0;
@@ -93,3 +102,23 @@ body{
     color: hsl(228, 45%, 44%);
 }
 
+@media (max-width: 375px){
+    .container{
+        width: 300px;
+        padding: 20px;
+    }
+    .learn{
+        font-size: 0.7rem;
+        padding: 2px 10px;
+    }
+    .publishDate{
+        font-size: 0.7rem;
+    }
+    .title{
+        font-size: 1.15rem;
+    }
+    .description{
+        font-size: 0.8rem;
+    }
+
+}
