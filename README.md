@@ -60,3 +60,7 @@ Solution to the **Blog Preview Card** challenge from
 **Esraa Abdallah**  
 [GitHub](https://github.com/Esraa-Abdallah21010) | [LinkedIn](https://www.linkedin.com/in/esraa-abdallah-029945381)
 
+---
+
+⭐ If you like this project, feel free to give it a star!
+
